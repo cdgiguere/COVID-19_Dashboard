@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to our Massachusetts COVID-19 distress dashboard
 
-You can use the [editor on GitHub](https://github.com/cdgiguere/COVID-19_Dashboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can investigate relationships between certain demographic features, COVID-19 distress factors, and vaccination statistics for each **county** in Minnesota. You can also investigate relationships between the same demographic features and COVID-19 distress factors for each **town** in Massachusetts. Unfortunately, Massachusetts does not collect COVID-19 vaccination data.
 
 ### Markdown
 
