@@ -136,107 +136,108 @@ Mask usage statistics were collected from a self-reporting John's Hopkins survey
 
 Data Notes
 * Data for these values are based on information available in the MDPH surveillance database at a single point in time. Case counts for specific cities and towns change throughout the day as data cleaning occurs (removal of duplicate reports within the system) and new demographic information (assigning cases to their city or town of residence) is obtained. Testing rates are calculated from the number of tests conducted in the geographic area divided by the population denominator (the number of people living in that geographic area). Rates are used to compare data between geographic areas that have different population sizes.
-+ The following towns populations are grouped in with another town either for their population being very small or their ZIP codes overlapping. 'Pelham -> Amherst' means that Pelham's population is grouped in with Amherst's and Pelham does not have independent vaccination data.
-    Montgomery -> Westfield
-    Clarksburg -> North Adams
-    Hancock -> Lanesborough
-    New Ashford -> Lanesborough
-    Peru -> Hinsdale
-    Leyden -> Greenfield
-    Alford -> Great Barrington
-    Tolland -> Granville
-    Mount Washington -> Egremont
-    Westhampton -> Easthampton
-    Aquinnah -> Chilmark
-    Hawley -> Charlemont
-    Washington -> Becket
-    Philipston -> Athol
-    Pelham -> Amherst
++ \+ The following towns populations are grouped in with another town either for their population being very small or their ZIP codes overlapping. 'Pelham -> Amherst' means that Pelham's population is grouped in with Amherst's and Pelham does not have independent vaccination data.
+
++    Montgomery -> Westfield
++    Clarksburg -> North Adams
++    Hancock -> Lanesborough
++    New Ashford -> Lanesborough
++    Peru -> Hinsdale
++    Leyden -> Greenfield
++    Alford -> Great Barrington
++    Tolland -> Granville
++    Mount Washington -> Egremont
++    Westhampton -> Easthampton
++    Aquinnah -> Chilmark
++    Hawley -> Charlemont
++    Washington -> Becket
++    Philipston -> Athol
++    Pelham -> Amherst
 
 @ Data for race/ethnicity on vaccinations is self-reported and people who do not specify their race are not included in either the white or minority subsamples.
-@ Vaccination data is underreported for the following towns (and therefore their counties as well) due to there being less than 30 vaccinated individuals in one or more recorded demographics. These underreported values were replaced by 0, so for each of these towns and counties, the actual vaccinated populations are slightly larger. A <sup>1</sup> indicates that only the fully vaccinated percentage is not reported, a <sup>2</sup> indicates that both the fully and partially vaccinated percentages are not reported.
++ @ Vaccination data is underreported for the following towns (and therefore their counties as well) due to there being less than 30 vaccinated individuals in one or more recorded demographics. These underreported values were replaced by 0, so for each of these towns and counties, the actual vaccinated populations are slightly larger. A <sup>1</sup> indicates that only the fully vaccinated percentage is not reported, a <sup>2</sup> indicates that both the fully and partially vaccinated percentages are not reported.
 
-    Becket<sup>1</sup>
-    Holland<sup>1</sup>
-    Hardwick<sup>1</sup>
-    Oakham<sup>1</sup>
-    Stockbridge<sup>1</sup>
-    Chilmark (includes Aquinnah)<sup>1</sup>
-    East Brookfield<sup>1</sup>
-    Hindsdale (includes Peru)<sup>1</sup>
-    West Tisbury<sup>1</sup>
-    Erving<sup>1</sup>
-    Conway<sup>1</sup>
-    North Brookfield<sup>1</sup>
-    Brookfield<sup>1</sup>
-    Leverett<sup>1</sup>
-    Bernardston<sup>1</sup>
-    Ashby<sup>1</sup>
-    Northfield<sup>1</sup>
-    Warren<sup>1</sup>
-    Plympton<sup>1</sup>
-    Shutesbury<sup>1</sup>
-    Wellfleet<sup>1</sup>
-    Millville<sup>1</sup>
-    Lanesborough (includes Hancock)<sup>1</sup>
-    Oak Bluffs<sup>1</sup>
-    Shelburne<sup>1</sup>
-    Hampden (town)<sup>1</sup>
-    Avon<sup>1</sup>
-    Berlin<sup>1</sup>
-    Hatfield<sup>1</sup>
-    Sunderland<sup>1</sup>
-    Brimfield<sup>1</sup>
-    Eastham<sup>1</sup>
-    Hubbardston<sup>1</sup>
-    Essex<sup>1</sup>
-    Orleans<sup>1</sup>
-    Ware<sup>1</sup>
-    Chatham<sup>1</sup>
-    Edgartown<sup>1</sup>
-    Granby<sup>1</sup>
-    Sheffield<sup>1</sup>
-    Gill<sup>1</sup>
-    Provincetown<sup>2</sup>
-    Truro<sup>2</sup>
-    Egremont (includes Mount Washington)<sup>2</sup>
-    Florida<sup>2</sup>
-    Montery<sup>2</sup>
-    New Marlborough<sup>2</sup>
-    Otis<sup>2</sup>
-    Richmond<sup>2</sup>
-    Sandisfield<sup>2</sup>
-    Savoy<sup>2</sup>
-    Tyringham<sup>2</sup>
-    West Stockbridge<sup>2</sup>
-    Windsor<sup>2</sup>
-    Gosnold<sup>2</sup>
-    Ashfield<sup>2</sup>
-    Buckland<sup>2</sup>
-    Charlemont (includes Hawley)<sup>2</sup>
-    Colrain<sup>2</sup>
-    Heath<sup>2</sup>
-    Monroe<sup>2</sup>
-    New Salem<sup>2</sup>
-    Rowe<sup>2</sup>
-    Warwick<sup>2</sup>
-    Wendell<sup>2</sup>
-    Whately<sup>2</sup>
-    Blandford<sup>2</sup>
-    Chester<sup>2</sup>
-    Granville (includes Tolland)<sup>2</sup>
-    Russell<sup>2</sup>
-    Wales<sup>2</sup>
-    Chesterfield<sup>2</sup>
-    Cummington<sup>2</sup>
-    Goshen<sup>2</sup>
-    Huntington<sup>2</sup>
-    Middlefield<sup>2</sup>
-    Plainfield<sup>2</sup>
-    Worthington<sup>2</sup>
-    New Braintree<sup>2</sup>
-    Petersham<sup>2</sup>
-    Royalston<sup>2</sup>
++    Becket<sup>1</sup>
++    Holland<sup>1</sup>
++    Hardwick<sup>1</sup>
++    Oakham<sup>1</sup>
++    Stockbridge<sup>1</sup>
++    Chilmark (includes Aquinnah)<sup>1</sup>
++    East Brookfield<sup>1</sup>
++    Hindsdale (includes Peru)<sup>1</sup>
++    West Tisbury<sup>1</sup>
++    Erving<sup>1</sup>
++    Conway<sup>1</sup>
++    North Brookfield<sup>1</sup>
++    Brookfield<sup>1</sup>
++    Leverett<sup>1</sup>
++    Bernardston<sup>1</sup>
++    Ashby<sup>1</sup>
++    Northfield<sup>1</sup>
++    Warren<sup>1</sup>
++    Plympton<sup>1</sup>
++    Shutesbury<sup>1</sup>
++    Wellfleet<sup>1</sup>
++    Millville<sup>1</sup>
++    Lanesborough (includes Hancock)<sup>1</sup>
++    Oak Bluffs<sup>1</sup>
++    Shelburne<sup>1</sup>
++    Hampden (town)<sup>1</sup>
++    Avon<sup>1</sup>
++    Berlin<sup>1</sup>
++    Hatfield<sup>1</sup>
++    Sunderland<sup>1</sup>
++    Brimfield<sup>1</sup>
++    Eastham<sup>1</sup>
++    Hubbardston<sup>1</sup>
++    Essex<sup>1</sup>
++    Orleans<sup>1</sup>
++    Ware<sup>1</sup>
++    Chatham<sup>1</sup>
++    Edgartown<sup>1</sup>
++    Granby<sup>1</sup>
++    Sheffield<sup>1</sup>
++    Gill<sup>1</sup>
++    Provincetown<sup>2</sup>
++    Truro<sup>2</sup>
++    Egremont (includes Mount Washington)<sup>2</sup>
++    Florida<sup>2</sup>
++    Montery<sup>2</sup>
++    New Marlborough<sup>2</sup>
++    Otis<sup>2</sup>
++    Richmond<sup>2</sup>
++    Sandisfield<sup>2</sup>
++    Savoy<sup>2</sup>
++    Tyringham<sup>2</sup>
++    West Stockbridge<sup>2</sup>
++    Windsor<sup>2</sup>
++    Gosnold<sup>2</sup>
++    Ashfield<sup>2</sup>
++    Buckland<sup>2</sup>
++    Charlemont (includes Hawley)<sup>2</sup>
++    Colrain<sup>2</sup>
++    Heath<sup>2</sup>
++    Monroe<sup>2</sup>
++    New Salem<sup>2</sup>
++    Rowe<sup>2</sup>
++    Warwick<sup>2</sup>
++    Wendell<sup>2</sup>
++    Whately<sup>2</sup>
++    Blandford<sup>2</sup>
++    Chester<sup>2</sup>
++    Granville (includes Tolland)<sup>2</sup>
++    Russell<sup>2</sup>
++    Wales<sup>2</sup>
++    Chesterfield<sup>2</sup>
++    Cummington<sup>2</sup>
++    Goshen<sup>2</sup>
++    Huntington<sup>2</sup>
++    Middlefield<sup>2</sup>
++    Plainfield<sup>2</sup>
++    Worthington<sup>2</sup>
++    New Braintree<sup>2</sup>
++    Petersham<sup>2</sup>
++    Royalston<sup>2</sup>
 
 
 Affected counties
