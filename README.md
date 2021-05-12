@@ -2,11 +2,14 @@
 Welcome to our Massachusetts COVID-19 distress dashboard!
 
 Created by Armand Asnani, Collin Giguere, & Ankita Naik, with guidance from Joe Ungerleider & Jill Drury
-Appendix
-Town/City-wide variables
-COVID-19 distress factors$^*$
 
-COVID-19 distress factors are collected from weekly/daily updates to the Massachusetts Department of Public Health's COVID-19 database$^{[1]}$.
+Appendix
+
+Town/City-wide variables
+
+COVID-19 distress factors<sup>*</sup>
+
+COVID-19 distress factors are collected from weekly/daily updates to the Massachusetts Department of Public Health's COVID-19 database<sup>[1]</sup>.
 
     # Total cases: Total number of confirmed COVID-19 cases since Jan. 1st 2020 in each town.
     % Infection rate: Percentage of residents who have had a confirmed COVID-19 case since Jan. 1st 2020 in each town.
@@ -24,7 +27,7 @@ COVID-19 distress factors are collected from weekly/daily updates to the Massach
 
 Demographic features
 
-Demographic features are 5-year estimates for the year 2019 estimated from the 2010 census preformed by the Census Bureau$^{[2]}$.
+Demographic features are 5-year estimates for the year 2019 estimated from the 2010 census preformed by the Census Bureau<sup>[2]</sup>.
 
     % Population minority: The percentage of non-white residents in each town.
     % Population no health insurance: The percentage of non-institutionalized civilians who have no health insurance, public or private, in each town.
@@ -44,9 +47,9 @@ Demographic features are 5-year estimates for the year 2019 estimated from the 2
     % Households no telephone: The percentage of occupied housing units without a telephone (landline or cellular) in each town.
     % Educated w/ diploma or higher: The percentage of residents 25 years and over who have a high school diploma (or equivalent) or higher education in each town.
 
-Vaccines$^{+@}$
+Vaccines<sup>+@</sup>
 
-Vaccination data is collected by the Massachusetts Department of Public Health$^{[3]}$.
+Vaccination data is collected by the Massachusetts Department of Public Health<sup>[3]</sup>.
 
     % Population one or more doses: The percentage of people who have ever receieved one or more doses of any COVID-19 vaccine in each town.
     % Population fully vaccinated: The percentage of people who have ever received two doses of any COVID-19 vaccine or one dose of the Janssen or Johnson & Johnson COVID-19 vaccine in each town.
@@ -60,9 +63,9 @@ Vaccination data is collected by the Massachusetts Department of Public Health$^
     % Vaccinated 65+ fully vaccinated: The percentage of people aged 65 or older who have ever received two doses of any COVID-19 vaccine or one dose of the Janssen or Johnson & Johnson COVID-19 vaccine in each town.
 
 County-wide variables
-COVID-19 distress factors$^*$
+COVID-19 distress factors<sup>*</sup>
 
-COVID-19 distress factors are collected from weekly/daily updates to the Massachusetts Department of Public Health's COVID-19 database$^{[1]}$.
+COVID-19 distress factors are collected from weekly/daily updates to the Massachusetts Department of Public Health's COVID-19 database<sup>[1]</sup>.
 
     # Total cases: Total number of confirmed cases since Jan. 1st 2020 in each county.
     % Infection rate: Percentage of residents who have had a confirmed case of COVID-19 since Jan. 1st 2020 in each county.
@@ -86,7 +89,7 @@ COVID-19 distress factors are collected from weekly/daily updates to the Massach
 
 Demographic features
 
-Demographic features are 5-year estimates for the year 2019 estimated from the 2010 census preformed by the Census Bureau$^{[2]}$ (these are the same as the town/city-wide demographic features).
+Demographic features are 5-year estimates for the year 2019 estimated from the 2010 census preformed by the Census Bureau<sup>[2]</sup> (these are the same as the town/city-wide demographic features).
 
     % Population minority: The percentage of non-white residents in each county.
     % Population no health insurance: The percentage of non-institutionalized civilians who have no health insurance, public or private, in each county.
@@ -106,9 +109,9 @@ Demographic features are 5-year estimates for the year 2019 estimated from the 2
     % Households no telephone: The percentage of occupied housing units without a telephone (landline or cellular) in each county.
     % Educated w/ diploma or higher: The percentage of residents 25 years and over who have a high school diploma (or equivalent) or higher education in each county.
 
-Vaccines$^{@}$
+Vaccines<sup>@</sup>
 
-Vaccination data is collected by the Massachusetts Department of Public Health$^{[3]}$.
+Vaccination data is collected by the Massachusetts Department of Public Health<sup>[3]</sup>.
 
     % Population one or more doses: The percentage of people who have ever receieved one or more doses of any COVID-19 vaccine in each county.
     % Population fully vaccinated: The percentage of people who have ever received two doses of any COVID-19 vaccine or one dose of the Janssen or Johnson & Johnson COVID-19 vaccine in each county.
@@ -123,7 +126,7 @@ Vaccination data is collected by the Massachusetts Department of Public Health$^
 
 Mask usage
 
-Mask usage statistics were collected from a self-reporting John's Hopkins survey$^{[4]}$.
+Mask usage statistics were collected from a self-reporting John's Hopkins survey<sup>[4]</sup>.
 
     % Population wears mask always: The percentage of residents who answered that they always wear a mask in public.
     % Population wears mask frequently: The percentage of residents who answered that they frequently wear a mask in public.
