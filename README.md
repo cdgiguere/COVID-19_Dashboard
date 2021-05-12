@@ -135,8 +135,9 @@ Mask usage statistics were collected from a self-reporting John's Hopkins survey
     % Population wears mask never: The percentage of residents who answered that they never wear a mask in public.
 
 Data Notes
-* Data for these values are based on information available in the MDPH surveillance database at a single point in time. Case counts for specific cities and towns change throughout the day as data cleaning occurs (removal of duplicate reports within the system) and new demographic information (assigning cases to their city or town of residence) is obtained. Testing rates are calculated from the number of tests conducted in the geographic area divided by the population denominator (the number of people living in that geographic area). Rates are used to compare data between geographic areas that have different population sizes.
-+ \+ The following towns populations are grouped in with another town either for their population being very small or their ZIP codes overlapping. 'Pelham -> Amherst' means that Pelham's population is grouped in with Amherst's and Pelham does not have independent vaccination data.
+\* Data for these values are based on information available in the MDPH surveillance database at a single point in time. Case counts for specific cities and towns change throughout the day as data cleaning occurs (removal of duplicate reports within the system) and new demographic information (assigning cases to their city or town of residence) is obtained. Testing rates are calculated from the number of tests conducted in the geographic area divided by the population denominator (the number of people living in that geographic area). Rates are used to compare data between geographic areas that have different population sizes.
+
+\+ The following towns populations are grouped in with another town either for their population being very small or their ZIP codes overlapping. 'Pelham -> Amherst' means that Pelham's population is grouped in with Amherst's and Pelham does not have independent vaccination data.
 
 +    Montgomery -> Westfield
 +    Clarksburg -> North Adams
@@ -155,7 +156,8 @@ Data Notes
 +    Pelham -> Amherst
 
 @ Data for race/ethnicity on vaccinations is self-reported and people who do not specify their race are not included in either the white or minority subsamples.
-+ @ Vaccination data is underreported for the following towns (and therefore their counties as well) due to there being less than 30 vaccinated individuals in one or more recorded demographics. These underreported values were replaced by 0, so for each of these towns and counties, the actual vaccinated populations are slightly larger. A <sup>1</sup> indicates that only the fully vaccinated percentage is not reported, a <sup>2</sup> indicates that both the fully and partially vaccinated percentages are not reported.
+
+@ Vaccination data is underreported for the following towns (and therefore their counties as well) due to there being less than 30 vaccinated individuals in one or more recorded demographics. These underreported values were replaced by 0, so for each of these towns and counties, the actual vaccinated populations are slightly larger. A <sup>1</sup> indicates that only the fully vaccinated percentage is not reported, a <sup>2</sup> indicates that both the fully and partially vaccinated percentages are not reported.
 
 +    Becket<sup>1</sup>
 +    Holland<sup>1</sup>
@@ -242,7 +244,7 @@ Data Notes
 
 Affected counties
 
-    Barnstable
+    Barnstable$^1$
     Berkshire
     Dukes
     Essex
