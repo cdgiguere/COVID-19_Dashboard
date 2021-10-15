@@ -1,3 +1,4 @@
+**Unfortunately as the pandemic continues, data collection methods change and some cease altogether. As a result, this dashboard is no longer functional due to the data it relies on no longer being available, but the code is still here as a catalog of my work.**
 
 Welcome to our Massachusetts COVID-19 distress dashboard!
 
